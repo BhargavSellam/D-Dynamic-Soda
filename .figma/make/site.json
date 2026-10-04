@@ -1,0 +1,14 @@
+{
+  "title": "D Dynamic Soda | Bold Flavours. Refreshing Moments.",
+  "description": "Showcases D Dynamic Soda's beverage products with vibrant design, enabling customers and partners to explore offerings and submit enquiries easily.",
+  "icons": {
+    "icon": "/assets/d-dynamic-soda-logo.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
